@@ -11,13 +11,22 @@ Modeling of filters for different frequencies in Matlab and project transfer in 
 python -m venv venv
 source venv/bin/activate
 ```
+### 2. Install equalizer-pakage
+
+```no-highlight
+pip install -e .
+```
 
 ### 2. Install packets
 
-```pip install -r requirements.txt```
+```no-highlight
+pip install -r requirements.txt
+```
 
 ### 3. Now you can run the program with the following command.
 
-```python launch.py```
+```no-highlight
+python launch.py
+```
 
 ![alt text](uploads/screenshot.png "Screenshot")
