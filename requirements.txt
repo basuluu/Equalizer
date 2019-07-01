@@ -1,0 +1,10 @@
+cffi==1.12.3
+## !! Could not determine repository location
+Equalizer==1.0
+llvmlite==0.29.0
+numba==0.44.1
+numpy==1.16.4
+Pillow==6.0.0
+PyAudio==0.2.11
+pycparser==2.19
+SoundFile==0.10.2
