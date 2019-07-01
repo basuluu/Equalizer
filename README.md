@@ -17,13 +17,13 @@ source venv/bin/activate
 pip install -e .
 ```
 
-### 2. Install packets
+### 3. Install packets
 
 ```no-highlight
 pip install -r requirements.txt
 ```
 
-### 3. Now you can run the program with the following command.
+### 4. Now you can run the program with the following command.
 
 ```no-highlight
 python launch.py
